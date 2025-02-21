@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Java+Backend+Developer)](https://git.io/typing-svg)
 
-<div class="tenor-gif-embed" data-postid="27129143" data-share-method="host" data-aspect-ratio="0.75" data-width="100%"><a href="https://tenor.com/view/cat-keyboard-ginger-cat-gif-27129143">Cat Keyboard GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 ### About me
 I am 21 and one years old, studying for a degree in applied computer science. I personally study Java and web development using the *Spring Framework*. At the moment, I am developing a platform for creating school tests, a rating system and achievements based on *Spring Cloud* microservices.
 
