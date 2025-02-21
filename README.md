@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Java+Backend+Developer)](https://git.io/typing-svg)
 
+<img src="https://tenor.com/ru/view/cat-keyboard-ginger-cat-gif-27129143" width="200">
 
 ### About me
 I am 21 and one years old, studying for a degree in applied computer science. I personally study Java and web development using the *Spring Framework*. At the moment, I am developing a platform for creating school tests, a rating system and achievements based on *Spring Cloud* microservices.
