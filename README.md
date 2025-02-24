@@ -26,7 +26,7 @@ I am 21 and one years old, studying for a degree in applied computer science. I 
     2) **Spring Cloud Gateway** - I use this gateway as the central point of access to the other microservices and I know how to configure it.
 ****
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) - this is the main **DBMS** that I use in my projects. For me, it has advantages over other databases, one of them is the ability to save data in *JSON* format and work with *Enum types*. 
-1) **SQL** - I have excellent knowledge of this language.
+1) **SQL** - I have good knowledge of this language.
     - I know the basic **normalization levels** of databases.
     - **ACID principles**. How to work with transactions and what levels of transaction isolation there are.
     - I know how to use **JOIN's** queries in practice.
