@@ -25,12 +25,7 @@ I am 21  years old, studying for a degree in applied computer science. I persona
     1) **Spring Netflix Eureka Server and Client** - I use this module to create a server (*Eureka Server*) in which I register microservices using *Eureka Cient*.
     2) **Spring Cloud Gateway** - I use this gateway as the central point of access to the other microservices and I know how to configure it.
 ****
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) - this is the main **DBMS** that I use in my projects. For me, it has advantages over other databases, one of them is the ability to save data in *JSON* format and work with *Enum types*. 
-1) **SQL** - I have good knowledge of this language.
-    - I know the basic **normalization levels** of databases.
-    - **ACID principles**. How to work with transactions and what levels of transaction isolation there are.
-    - I know how to use **JOIN's** queries in practice.
-    - Basic knowledge of functions and triggers.
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ***
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -  I also use docker containers in development. I can write and build **dockerfile's** and *docker-compose* files for my projects.
 ***
