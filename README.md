@@ -12,21 +12,19 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,&perline=9" alt="Main stack" />
 </p>
-<br>
+<br/>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,docker&perline=9" alt="Data" />
 </p>
-<br>
+<br/>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,javascript,c,cpp,python,fastapi,php,html,css,tailwindcss,&perline=9" alt="Data" />
 </p>
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=vavilonpal&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&card_width=350" height="150"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=vavilonpal&theme=great-gatsby&hide_border=false" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vavilonpal&theme=great-gatsby&hide_border=false&layout=compact&card_width=350" height="150"/>
+![](https://github-readme-stats.vercel.app/api?username=vavilonpal&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)<br/> 
+![](https://nirzak-streak-stats.vercel.app/?user=vavilonpal&theme=great-gatsby&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vavilonpal&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
