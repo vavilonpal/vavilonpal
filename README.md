@@ -9,15 +9,15 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alekseev.sserghei@gmail.com) 
 
 # 💻 Tech Stack:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,&perline=9" alt="Main stack" />
 </p>
 <br>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,docker&perline=9" alt="Data" />
 </p>
 <br>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,javascript,c,cpp,python,fastapi,php,html,css,tailwindcss,&perline=9" alt="Data" />
 </p>
 
