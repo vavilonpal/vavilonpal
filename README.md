@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,springboot,springsecurity,hibernate,&perline=9" alt="Main stack" />
 </p>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,docker&perline=9" alt="Data" />
 </p>
