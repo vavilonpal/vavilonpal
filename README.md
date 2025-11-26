@@ -1,3 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+Software+Engineer)](https://git.io/typing-svg)
 
 
+# 💫 About Me:
+💻 I’m currently working on An application with a computer vision system for recognizing gestures and emotions with voice interpretation of the results.<br>
+
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alekseev.sserghei@gmail.com) 
+
+# 💻 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,springsecurity,hibernate,&perline=9" alt="Main stack" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,docker&perline=9" alt="Data" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,python,cplusplus,cpp,fastapi,html5,css,tailwindcss,&perline=9" alt="Data" />
+</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vavilonpal&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vavilonpal&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vavilonpal&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vavilonpal&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
