@@ -18,7 +18,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,c,cpp,python,fastapi,php,html5,css,tailwindcss,&perline=9" alt="Data" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,c,cpp,python,fastapi,php,html,css,tailwindcss,&perline=9" alt="Data" />
 </p>
 
 # 📊 GitHub Stats:
