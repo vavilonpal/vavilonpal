@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,springsecurity,hibernate,&perline=9" alt="Main stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,&perline=9" alt="Main stack" />
 </p>
 <br>
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,python,cplusplus,cpp,fastapi,html5,css,tailwindcss,&perline=9" alt="Data" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,c,cpp,python,fastapi,php,html5,css,tailwindcss,&perline=9" alt="Data" />
 </p>
 
 # 📊 GitHub Stats:
