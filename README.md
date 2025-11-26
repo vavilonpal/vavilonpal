@@ -7,6 +7,7 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alekseev.sserghei@gmail.com) 
+<a href="https://www.linkedin.com/in/serghey-alexeev-36989235a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 # 💻 Tech Stack:
 <p align="left">
